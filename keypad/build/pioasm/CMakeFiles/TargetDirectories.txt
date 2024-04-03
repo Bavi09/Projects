@@ -1,0 +1,3 @@
+/home/lputheti/pico/projects/keypad/build/pioasm/CMakeFiles/rebuild_cache.dir
+/home/lputheti/pico/projects/keypad/build/pioasm/CMakeFiles/edit_cache.dir
+/home/lputheti/pico/projects/keypad/build/pioasm/CMakeFiles/pioasm.dir

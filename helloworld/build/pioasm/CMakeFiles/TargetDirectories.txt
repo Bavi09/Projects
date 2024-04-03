@@ -1,0 +1,3 @@
+/home/lputheti/pico/projects/helloworld/build/pioasm/CMakeFiles/rebuild_cache.dir
+/home/lputheti/pico/projects/helloworld/build/pioasm/CMakeFiles/edit_cache.dir
+/home/lputheti/pico/projects/helloworld/build/pioasm/CMakeFiles/pioasm.dir
